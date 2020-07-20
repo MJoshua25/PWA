@@ -45,6 +45,6 @@
   "dir": "ltr",
   "lang": "fr-Fr",
   "background_color": "#fff",
-  "theme": "#3f51b5",
+  "theme_color": "#3f51b5",
   "description": "Un simple clone de instagram qui inplémente beaucoup de fonctionnalités PWA."
 }
